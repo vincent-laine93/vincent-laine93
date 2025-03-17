@@ -25,8 +25,8 @@
 
 ### 📌 Projets en cours
 
-- 💻 **Développement d'application JavaFX** → J'apprends le **développement d’applications avec JavaFX** et je me perfectionne en **programmation orientée objet (POO)**.*
-- 🌐 **Site en PHP** → Développement d'un site web en **PHP pur** avec **POO et MySQL**.
+- 💻 **Développement d'application JavaFX** → J'apprends le **développement d’applications avec JavaFX** et je me perfectionne en **programmation orientée objet (POO)**.
+- 🌐 **Site Web en PHP** : Création d'un site dynamique avec PHP, MySQL et POO. Objectif : intégrer une section admin pour la gestion des utilisateurs.
 
 ---
 
