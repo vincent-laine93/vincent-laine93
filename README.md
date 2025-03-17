@@ -38,7 +38,7 @@
 
 ### 📫 Me contacter
 
-💼 [LinkedIn](https://www.linkedin.com/in/vincent-laine-b00381244/)
+💼 [LinkedIn](https://www.linkedin.com/in/vincent-laine-b00381244/)  
 📧 **vincentlaine.238@gmail.com** 
 
 ---
