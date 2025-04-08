@@ -32,7 +32,8 @@
 
 ### 📊 Statistiques GitHub
 
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincent-laine93&show_icons=true&theme=tokyonight)
+![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vincent-laine93&show_icons=true&theme=tokyonight&timestamp=20250331)
+
 
 ---
 
