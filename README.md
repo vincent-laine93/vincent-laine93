@@ -32,7 +32,7 @@
 
 ### 📊 Statistiques GitHub
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vincent-laine93&show_icons=true&theme=tokyonight&cache_seconds=60)
+![Stats](https://github-readme-stats.vercel.app/api?username=vincent-laine93&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true)
 
 
 
